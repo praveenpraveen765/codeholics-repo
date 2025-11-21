@@ -1,0 +1,5 @@
+{
+  "name": "Codeholics AI",
+  "description": "An autonomous AI research agent that synthesizes technical topics into executive presentations using Gemini Grounding and Reasoning.",
+  "requestFramePermissions": []
+}
